@@ -20,7 +20,10 @@ FOFA:
   EMAIL: ""
   KEY: ""
 
-
+#
+RISKID:
+  EMAIL: ""
+  KEY: ""
 
 # 利用三方API进行域名收集
 # 测试命令 python3.6 -m test.test_query_plugin [source1] [source2]
